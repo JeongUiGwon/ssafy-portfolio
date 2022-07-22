@@ -1,0 +1,19 @@
+.carousel-item img{
+  height: 100vh;
+  /* vh : view height, vw : view width */
+}
+
+nav{
+  z-index: 1;
+}
+
+.list-group-item span{
+  padding-left: 10px;
+}
+
+.skill-list {
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  height: 70vh;
+}
